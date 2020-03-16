@@ -1,0 +1,14 @@
+{
+  "name": "google-classroom",
+  "version": "1.0.0",
+  "description": "google classroom example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "W",
+  "license": "MIT",
+  "dependencies": {
+    "googleapis": "^39.2.0"
+  }
+}
