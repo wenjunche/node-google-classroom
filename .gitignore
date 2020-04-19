@@ -104,4 +104,6 @@ dist
 .tern-port
 
 credentials.json
-token.json
+googletoken.json
+bottoken.json
+credentials-calendar.json
